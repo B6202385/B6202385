@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=B6202385&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Phatcha01s&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 | <a href="https://github.com/Phatcha01s/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Phatcha01s&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Phatcha01s's github stats" /></a> | <a href="https://github.com/Phatcha01s/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phatcha01s&layout=compact&theme=buefy&hide_border=true" /></a> |
